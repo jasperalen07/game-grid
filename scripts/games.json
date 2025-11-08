@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Grand Theft Auto V",
+    "genre": "Action-Adventure",
+    "platform": ["PC", "PS5", "Xbox"],
+    "releaseYear": 2013,
+    "rating": 9.5,
+    "hot": true,
+    "trendingScore": 96,
+    "image": "images/gta5.jpg",
+    "description": "An open-world crime epic set in Los Santos, where you play across three intertwining storylines."
+  },
+  {
+    "id": 2,
+    "title": "Red Dead Redemption 2",
+    "genre": "Action-Adventure",
+    "platform": ["PC", "PS5", "Xbox"],
+    "releaseYear": 2018,
+    "rating": 9.8,
+    "hot": true,
+    "trendingScore": 94,
+    "image": "images/rdr2.jpg",
+    "description": "A cinematic western adventure that follows Arthur Morgan through the final days of the Wild West."
+  },
+  {
+    "id": 3,
+    "title": "Cyberpunk 2077",
+    "genre": "RPG",
+    "platform": ["PC", "PS5", "Xbox"],
+    "releaseYear": 2020,
+    "rating": 8.0,
+    "hot": false,
+    "trendingScore": 82,
+    "image": "images/cyberpunk2077.jpg",
+    "description": "Futuristic RPG set in Night City, blending storytelling and open-world exploration."
+  },
+  {
+    "id": 4,
+    "title": "Elden Ring",
+    "genre": "RPG",
+    "platform": ["PC", "PS5", "Xbox"],
+    "releaseYear": 2022,
+    "rating": 9.7,
+    "hot": true,
+    "trendingScore": 99,
+    "image": "images/eldenring.jpg",
+    "description": "A vast open-world action RPG blending challenging combat and deep lore from Hidetaka Miyazaki and George R. R. Martin."
+  },
+  {
+    "id": 5,
+    "title": "Marvel's Spider-Man 2",
+    "genre": "Action",
+    "platform": ["PS5"],
+    "releaseYear": 2023,
+    "rating": 9.0,
+    "hot": true,
+    "trendingScore": 91,
+    "image": "images/spiderman2.jpg",
+    "description": "Play as Peter Parker and Miles Morales in this dual-hero adventure through New York City."
+  },
+  {
+    "id": 6,
+    "title": "Ghost of Tsushima",
+    "genre": "Action-Adventure",
+    "platform": ["PS5"],
+    "releaseYear": 2020,
+    "rating": 9.3,
+    "hot": true,
+    "trendingScore": 88,
+    "image": "images/ghostoftsushima.jpg",
+    "description": "A samurai tale of honor and redemption set during the Mongol invasion of Japan."
+  },
+  {
+    "id": 7,
+    "title": "The Witcher 3: Wild Hunt",
+    "genre": "RPG",
+    "platform": ["PC", "PS5", "Xbox"],
+    "releaseYear": 2015,
+    "rating": 9.6,
+    "hot": false,
+    "trendingScore": 89,
+    "image": "images/witcher3.jpg",
+    "description": "A sprawling fantasy RPG filled with monsters, moral choices, and rich storytelling."
+  },
+  {
+    "id": 8,
+    "title": "Forza Horizon 5",
+    "genre": "Racing",
+    "platform": ["PC", "Xbox"],
+    "releaseYear": 2021,
+    "rating": 9.1,
+    "hot": false,
+    "trendingScore": 86,
+    "image": "images/forza5.jpg",
+    "description": "A visually stunning racing experience set across vibrant landscapes inspired by Mexico."
+  },
+  {
+    "id": 9,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "genre": "Adventure",
+    "platform": ["Switch"],
+    "releaseYear": 2017,
+    "rating": 9.8,
+    "hot": true,
+    "trendingScore": 95,
+    "image": "images/zelda_botw.jpg",
+    "description": "An open-world adventure redefining exploration and creativity within the Zelda universe."
+  },
+  {
+    "id": 10,
+    "title": "Hades",
+    "genre": "Roguelike",
+    "platform": ["PC", "PS5", "Xbox", "Switch"],
+    "releaseYear": 2020,
+    "rating": 9.0,
+    "hot": false,
+    "trendingScore": 87,
+    "image": "images/hades.jpg",
+    "description": "A fast-paced roguelike blending action combat, Greek mythology, and emotional storytelling."
+  }
+]
