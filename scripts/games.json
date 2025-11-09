@@ -8,7 +8,7 @@
     "rating": 9.5,
     "hot": true,
     "trendingScore": 96,
-    "image": "images/gta5.jpg",
+    "image": "images/gtav.jpg",
     "description": "An open-world crime epic set in Los Santos, where you play across three intertwining storylines."
   },
   {
@@ -20,7 +20,7 @@
     "rating": 9.8,
     "hot": true,
     "trendingScore": 94,
-    "image": "images/rdr2.jpg",
+    "image": "images/rdr.jpg",
     "description": "A cinematic western adventure that follows Arthur Morgan through the final days of the Wild West."
   },
   {
@@ -32,7 +32,7 @@
     "rating": 8.0,
     "hot": false,
     "trendingScore": 82,
-    "image": "images/cyberpunk2077.jpg",
+    "image": "images/cyberpunk.jpg",
     "description": "Futuristic RPG set in Night City, blending storytelling and open-world exploration."
   },
   {
@@ -44,7 +44,7 @@
     "rating": 9.7,
     "hot": true,
     "trendingScore": 99,
-    "image": "images/eldenring.jpg",
+    "image": "images/elden-ring.jpg",
     "description": "A vast open-world action RPG blending challenging combat and deep lore from Hidetaka Miyazaki and George R. R. Martin."
   },
   {
@@ -56,7 +56,7 @@
     "rating": 9.0,
     "hot": true,
     "trendingScore": 91,
-    "image": "images/spiderman2.jpg",
+    "image": "images/spiderman-two.jpg",
     "description": "Play as Peter Parker and Miles Morales in this dual-hero adventure through New York City."
   },
   {
@@ -68,7 +68,7 @@
     "rating": 9.3,
     "hot": true,
     "trendingScore": 88,
-    "image": "images/ghostoftsushima.jpg",
+    "image": "images/g-tsushima.jpg",
     "description": "A samurai tale of honor and redemption set during the Mongol invasion of Japan."
   },
   {
@@ -80,7 +80,7 @@
     "rating": 9.6,
     "hot": false,
     "trendingScore": 89,
-    "image": "images/witcher3.jpg",
+    "image": "images/witcher.jpg",
     "description": "A sprawling fantasy RPG filled with monsters, moral choices, and rich storytelling."
   },
   {
@@ -92,7 +92,7 @@
     "rating": 9.1,
     "hot": false,
     "trendingScore": 86,
-    "image": "images/forza5.jpg",
+    "image": "images/forza-horizon.jpg",
     "description": "A visually stunning racing experience set across vibrant landscapes inspired by Mexico."
   },
   {
@@ -104,7 +104,7 @@
     "rating": 9.8,
     "hot": true,
     "trendingScore": 95,
-    "image": "images/zelda_botw.jpg",
+    "image": "images/zelda-botw.jpg",
     "description": "An open-world adventure redefining exploration and creativity within the Zelda universe."
   },
   {
